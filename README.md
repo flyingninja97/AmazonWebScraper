@@ -12,7 +12,7 @@ The GUI will Look like this ..</br>
 ![](Capture.PNG)
 
 
-You need to Enter the item you want to search and the location where you want you database file to be saved</br> 
+You need to Enter the item you want to search and the location where you want your database file to be saved</br> 
 
 ![](images/Screenshot%20(20).png)
 Finally after crawling all the content from amazon all the results are stored in a database file which is stored on your local machine.</br>
