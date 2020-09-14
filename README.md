@@ -1,6 +1,4 @@
-<a href="https://cguess.vercel.app/">
-    <img src="https://i.imgur.com/7uTfVwp.png" alt="Cguess logo" title="Cguess" align="left" height="70" />
-</a>
+<h1>AmazonWebScraping Tool</h1>
 </br></br>
 
 ##           
@@ -33,10 +31,12 @@ Show some love ❤️ and Star ⭐️ the Repository to support the project.
  
  
  
-<img src="https://i.imgur.com/YsxxnEZ.png"/>
+<img src="https://github.com/flyingninja97/AmazonWebScraper/blob/master/Capture.PNG"/>
  
  
-<img src="https://i.imgur.com/vAz5BIx.png" />
+<img src="https://github.com/flyingninja97/AmazonWebScraper/blob/master/images/Screenshot%20(16).png" />
+<img src="https://github.com/flyingninja97/AmazonWebScraper/blob/master/images/Screenshot%20(20).png" />
+<img src="https://github.com/flyingninja97/AmazonWebScraper/blob/master/images/Screenshot%20(16).png" />
 
 
 
