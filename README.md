@@ -36,7 +36,23 @@ Show some love ❤️ and Star ⭐️ the Repository to support the project.
  
 <img src="https://github.com/flyingninja97/AmazonWebScraper/blob/master/images/Screenshot%20(16).png" />
 <img src="https://github.com/flyingninja97/AmazonWebScraper/blob/master/images/Screenshot%20(20).png" />
-<img src="https://github.com/flyingninja97/AmazonWebScraper/blob/master/images/Screenshot%20(16).png" />
+<img src="https://github.com/flyingninja97/AmazonWebScraper/blob/master/images/Screenshot%20(22).png" />
+
+
+## Analytics Performed using Matplotlib 
+
+
+
+<img src="https://github.com/flyingninja97/AmazonWebScraper/blob/master/pie2.png"  width ="800" />
+<p align="center">The above chart describes the market share in laptop segment by each company .
+ </br> We see that lenevo , Dell ,HP has occupied the major part in laptop segment.</p>
+ 
+ </br>
+ <img src="https://github.com/flyingninja97/AmazonWebScraper/blob/master/histo.png"  width ="800" />
+  <img src="https://github.com/flyingninja97/AmazonWebScraper/blob/master/ratings.png"  width ="800" />
+ 
+ 
+
 
 
 
